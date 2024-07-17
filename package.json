@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-place",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace elements of an array with provided values according to a provided mask array.",
   "license": "Apache-2.0",
   "author": {
