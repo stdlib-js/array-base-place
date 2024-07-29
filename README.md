@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import place from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-place@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-place/tags). For example,
+
+```javascript
 import place from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-place@v0.1.1-esm/index.mjs';
 ```
 
@@ -129,7 +134,7 @@ import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import place from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-place@v0.1.1-esm/index.mjs';
+import place from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-place@esm/index.mjs';
 
 // Generate a linearly spaced array:
 var x = linspace( 0, 100, 11 );
