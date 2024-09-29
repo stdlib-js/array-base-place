@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-09-29)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2c4e5d8`](https://github.com/stdlib-js/stdlib/commit/2c4e5d824e0c5dc8fd536bf79ff565cee100ce46) - **build:** disable additional lint rule in TS tests _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2024-07-29)
@@ -65,8 +99,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### BREAKING CHANGES
 
--   [`fdb5d94`](https://github.com/stdlib-js/stdlib/commit/fdb5d94eee5fc019bc358d799025cb2b5966d820): add support for additional modes
--   [`fdb5d94`](https://github.com/stdlib-js/stdlib/commit/fdb5d94eee5fc019bc358d799025cb2b5966d820): rename 'throw' mode to 'strict' 
+-   [`fdb5d94`](https://github.com/stdlib-js/stdlib/commit/fdb5d94eee5fc019bc358d799025cb2b5966d820): rename 'throw' mode to 'strict'
 
     -   To migrate, users should simply replace 'throw' with 'strict'.
 

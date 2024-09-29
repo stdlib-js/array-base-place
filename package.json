@@ -43,13 +43,13 @@
     "@stdlib/array-base-count-truthy": "^0.2.0",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.2",
     "@stdlib/strided-base-reinterpret-complex": "^0.1.2",
-    "@stdlib/types": "^0.3.2"
+    "@stdlib/types": "^0.4.1"
   },
   "devDependencies": {
     "@stdlib/array-base-filled-by": "^0.2.2",
     "@stdlib/array-base-linspace": "^0.2.2",
     "@stdlib/array-base-ones": "^0.2.2",
-    "@stdlib/array-base-to-accessor-array": "^0.2.1",
+    "@stdlib/array-base-to-accessor-array": "^0.2.2",
     "@stdlib/array-base-zero-to": "^0.2.1",
     "@stdlib/array-bool": "^0.1.0",
     "@stdlib/array-complex64": "^0.3.0",
