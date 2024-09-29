@@ -43,7 +43,8 @@
     "@stdlib/array-base-count-truthy": "^0.2.0",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.2",
     "@stdlib/strided-base-reinterpret-complex": "^0.1.2",
-    "@stdlib/types": "^0.4.1"
+    "@stdlib/types": "^0.4.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-filled-by": "^0.2.2",
