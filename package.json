@@ -49,7 +49,7 @@
     "@stdlib/array-base-filled-by": "^0.2.3",
     "@stdlib/array-base-linspace": "^0.2.3",
     "@stdlib/array-base-ones": "^0.2.3",
-    "@stdlib/array-base-to-accessor-array": "^0.2.2",
+    "@stdlib/array-base-to-accessor-array": "^0.2.3",
     "@stdlib/array-base-zero-to": "^0.2.2",
     "@stdlib/array-bool": "^0.1.2",
     "@stdlib/array-complex64": "^0.3.2",
